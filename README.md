@@ -1,0 +1,1 @@
+copy pre-commit & post-commit files to .git\hooks\ directory
